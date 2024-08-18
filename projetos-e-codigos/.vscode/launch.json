@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "projetos-e-codigos_2176a32e"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
